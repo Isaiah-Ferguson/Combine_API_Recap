@@ -1,0 +1,6 @@
+@Combine_API_Recap_HostAddress = http://localhost:5085
+
+GET {{Combine_API_Recap_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
